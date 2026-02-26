@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Birthday Puzzles",
-  description: "A puzzle game for a special birthday!",
+  title: "Baby Baby Baby Baby Baby Baby Baby",
+  description: "Have a happy birthday!",
 };
 
 export default function RootLayout({
